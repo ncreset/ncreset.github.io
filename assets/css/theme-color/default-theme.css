@@ -1,0 +1,359 @@
+/*=======================================
+Template Design By MarkUps.
+Author URI : http://www.markups.io/
+========================================*/
+.login:hover,
+.login:focus{
+  background-color: #2E4A8F; 
+}
+
+.navbar-brand {
+  color: #2E4A8F !important; 
+}
+
+.navbar-brand:hover,
+.navbar-brand:focus{
+  color: #2E4A8F !important;  
+}
+
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+  color: #2E4A8F !important;
+}
+
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus {
+  color: #2E4A8F;
+}
+
+.main-nav > li > a:hover::before,
+.navbar-default .navbar-nav > .active > a::before,
+.navbar-default .navbar-nav > .open > a:hover::before {
+  background-color: #F10101;
+}
+
+.main-nav .dropdown:hover .dropdown-toggle{ 
+  color: #2E4A8F; 
+}
+
+.main-nav .dropdown:hover .dropdown-toggle::before{
+  background-color: #F3BE00;
+  color: #2E4A8F; 
+}
+
+.navbar-default .navbar-nav > .open > a, 
+.navbar-default .navbar-nav > .open > a:hover, 
+.navbar-default .navbar-nav > .open > a:focus {  
+  color: #2E4A8F;
+}
+
+.navbar-nav > li > .dropdown-menu {
+  border-top: 2px solid #F3BE00;  
+}
+
+.navbar-nav > li > .dropdown-menu > li > a:hover,
+.navbar-nav > li > .dropdown-menu > li > a:focus{ 
+  color: #2E4A8F;
+}
+
+.main-slider .slick-prev:hover,
+.main-slider .slick-next:hover{
+  background-color: #F3BE00;
+}
+
+.main-slider .slick-dots li button::before {
+  color: #2E4A8F;    
+}
+
+.read-more-btn:hover,
+.read-more-btn:focus{
+  background-color: #2E4A8F;  
+}
+
+.title-area .title {
+  color: #2E4A8F;  
+}
+
+.single-feature .feature-icon {
+  color: #2E4A8F;
+}
+
+.feat-title{
+  color: #2E4A8F;
+}
+
+.our-skill h3{
+  color: #2E4A8F;
+}
+
+.our-skill h3::after {
+  background-color: #2E4A8F;
+}
+
+.our-skill-content .progress-bar {
+  background-color: #2E4A8F;    
+}
+
+.why-choose-us h3{
+  color: #2E4A8F;  
+}
+
+.why-choose-us h3::after {
+  background-color: #2E4A8F;  
+}
+
+.panel-title > a:hover,
+.panel-title > a:focus{
+  color: #2E4A8F;
+}
+
+.single-counter .counter-label::after {
+  background-color: #2E4A8F;  
+}
+
+.price-title {
+  background-color: #2E4A8F;
+}
+
+.purchase-btn:hover,
+.purchase-btn:focus{
+  background-color: #2E4A8F;
+  border-color: #2E4A8F;  
+}
+
+.featured-price .price-header{
+  background-color: #2E4A8F;
+}
+
+.featured-price .purchase-btn{
+  background-color: #2E4A8F;
+  border-color: #2E4A8F;
+}
+
+.team-member-img {  
+  border: 2px solid #2E4A8F;  
+}
+
+.single-team-member:hover{
+  border: 2px solid #2E4A8F;
+}
+
+.single-team-member:hover .team-member-link{
+  background-color: #2E4A8F;  
+}
+
+.team-member-link {
+  border: 2px solid #2E4A8F;
+}
+
+.testimonial-content h6 span {
+  color: #2E4A8F;
+}
+
+.testimonial-slider .slick-dots li {
+  border: 1px solid #2E4A8F; 
+}
+
+.blog-news-title h2>a:hover{
+  color: #2E4A8F;  
+}
+
+.blog-news-title .blog-author:hover{
+  color: #2E4A8F;
+}
+
+.blog-more-btn:hover,
+.blog-more-btn:focus{
+  color: #2E4A8F;  
+}
+
+.subscribe-btn {
+  background-color: #2E4A8F;
+}
+
+.scrollToTop {
+  background-color: #2E4A8F;
+}
+
+.scrollToTop:hover,
+.scrollToTop:focus{
+  color: #2E4A8F;
+  border: 1px solid #2E4A8F; 
+}
+
+.portfolio-menu ul li:hover,
+.portfolio-menu ul li.active{
+  background-color: #2E4A8F;
+  border-color: #2E4A8F; 
+}
+
+.single-item-content::after {
+  border: 4px solid #2E4A8F;  
+}
+
+.view-icon:hover{
+  color: #2E4A8F;
+}
+
+.pagination-nav li a:hover,
+.pagination-nav li a:focus { 
+  background-color: #2E4A8F;
+  border-color: #2E4A8F; 
+}
+
+.sidebar-widget ul>li>a:hover{
+  color: #2E4A8F;
+}
+
+.search-group .blog-search-btn {
+  background-color: #2E4A8F;  
+}
+
+.search-group input[type="search"] {  
+  border: 1px solid #2E4A8F;  
+}
+
+.search-group input[type="search"]:focus{
+  border-color: #2E4A8F;
+}
+
+.widget-title::after {
+  background-color: #2E4A8F;  
+}
+
+.widget-catg li{
+  color: #2E4A8F;
+}
+
+.widget-catg li a:hover,
+.widget-catg li a:focus{
+  color: #2E4A8F; 
+}
+
+.tag-cloud a:hover,
+.tag-cloud a:focus{
+  background-color: #2E4A8F;
+  border-color: #2E4A8F;  
+}
+
+.widget-archive li a:hover,
+.widget-archive li a:focus{
+  color: #2E4A8F;
+}
+
+.blog-single-tag a:hover,
+.blog-single-tag a:focus {
+  color: #2E4A8F;  
+}
+
+.blog-single-social a:hover,
+.blog-single-social a:focus {  
+  color: #2E4A8F;
+  border-color: #2E4A8F;
+}
+
+.blog-navigation-prev a>span{
+  color: #2E4A8F;  
+}
+
+.blog-navigation-next a>span{
+  color: #2E4A8F;  
+}
+
+.comments-form .form-control:focus {
+  border-color: #2E4A8F;  
+}
+
+.comments-box-area h2::after {
+  background-color: #2E4A8F;
+}
+
+.comment-btn:hover{
+  background-color: #2E4A8F;
+  border-color: #2E4A8F;  
+}
+
+.contact-area-left h4::after {
+  /*background-color: #2E4A8F;*/
+}
+
+#login-content .form-control:focus {
+  border-color: #2E4A8F;  
+}
+
+.loginbox .signin-btn {
+  background-color: #2E4A8F;  
+}
+
+.footer-box a:hover,
+.footer-box a:focus{
+  color: #2E4A8F;
+}
+
+#signup-content .modal-title {
+  color: #2E4A8F;
+}
+
+#signup-content .form-control:focus {
+  border-color: #2E4A8F;  
+}
+
+.signupbox span a:hover{
+  color: #2E4A8F; 
+}
+
+.navbar-default .navbar-toggle {
+  border-color: #2D498E;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+  background-color: #2E4A8F;
+}
+
+#search-icon {
+  color: #2E4A8F;  
+}
+
+#login-content .modal-title {
+  color: #2E4A8F;
+}
+
+.service-icon {
+  color: #2E4A8F;
+}
+
+.footer-left p a:hover{
+  color: #2E4A8F;
+}
+
+.footer-right a:hover{
+  color: #2E4A8F;
+}
+
+.single-page-header-right .breadcrumb li{
+  color: #FFFFFF;
+  /* width: 100%; */
+}
+.single-page-header-right .breadcrumb li h4{
+  color: #FFFFFF;
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.error-title {
+  background-color: #2E4A8F;
+  border: 2px solid #2E4A8F;  
+}
+
+.error-content span {
+  color: #2E4A8F; 
+}
+
+.error-content .error-home {
+  background-color: #2E4A8F;  
+}
+/*=======================================
+Template Design By MarkUps.
+Author URI : http://www.markups.io/
+========================================*/
